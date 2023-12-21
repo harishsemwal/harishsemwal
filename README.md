@@ -11,19 +11,19 @@
 
 - 🌱 I’m currently learning **Machine Learning Projects**
 
-- 👯 I’m looking to collaborate on [Open Source Contribution](https://github.com/Harishsemwal)
+- 👯 I’m looking to collaborate on [Check Here](https://github.com/Harishsemwal)
 
-- 🤝 I’m Pursuing [Bachelor of Technology](https://www.gehu.ac.in/)
+- 🤝 I’m Pursuing Bachelor of Technology
 
-- 👨‍💻 All of my profiles are available at [https://heylink.me/harish_semwal/](https://heylink.me/harish_semwal/)
+- 👨‍💻 All of my profiles are available at [Click Here](https://heylink.me/harish_semwal/)
 
-- 📝 I regularly Solve Problems on [LeetCode](https://leetcode.com/harishsemwal1/)
+- 📝 I regularly Solve Problems on LeetCode [Click Here](https://leetcode.com/harishsemwal1/)
 
 - 💬 Ask me about **React, Front-End Development**
 
 - 📫 How to reach me **harishsemwal581@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1iJngVh3CT7lkZhefFJHib_Qe6iGbSiXP/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://geuac-my.sharepoint.com/:b:/g/personal/harishprasadsemwal_21011175_gehu_ac_in/EcTKZ_6xpTZMn0iBObKDIokBs634cJt_ukdR5Eim212MSQ?e=nZ54CN)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
