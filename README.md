@@ -7,25 +7,25 @@
 <h3 align="center">A Passionate Computer Science & Engineering Student from India</h3>
 <img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
-- 🔭 I’m currently working on **Full Stack Development**
+🔭 Currently, I'm immersed in the realm of Full Stack Development, where I'm engaged in creating dynamic and robust web applications.
 
-- 🌱 I’m currently learning **Machine Learning Projects**
+🌱 In parallel, I'm dedicated to expanding my knowledge horizon by delving into the captivating domain of Machine Learning Projects, exploring the endless possibilities it offers.
 
-- 👯 I’m looking to collaborate on [GitHub](https://github.com/Harishsemwal)
+👯 I'm actively seeking opportunities to collaborate on exciting projects. You can find my contributions and projects on [GitHub](https://github.com/Harishsemwal), where I'm keen to engage with like-minded individuals and teams.
 
-- 🤝 I’m Pursuing Bachelor of Technology
+🤝 Pursuing a Bachelor of Technology degree, I'm committed to academic excellence and the continuous pursuit of learning and growth.
 
-- 👨‍💻 All of my profiles are available at [HeyLink Me](https://heylink.me/harish_semwal/)
+👨‍💻 For a comprehensive overview of my professional presence, you can explore my profiles on [HeyLink Me](https://heylink.me/harish_semwal/), which consolidate my online presence across various platforms.
 
-- 👨‍💻 All of my Projects are available at [Portfolio](https://hpsemwal.netlify.app/)
+👨‍💻 Explore my portfolio of projects showcasing my skills and expertise in Full Stack Development and beyond at [Portfolio](https://hpsemwal.netlify.app/). Here, you'll find a collection of my endeavors, highlighting my proficiency and dedication.
 
-- 📝 I regularly Solve Problems on LeetCode [LeetCode](https://leetcode.com/harishsemwal1/)
+📝 As an avid problem-solver, I regularly engage with challenges on LeetCode. You can track my progress and solutions on [LeetCode](https://leetcode.com/harishsemwal1/).
 
-- 💬 Ask me about **React, Front-End Development**
+💬 Interested in discussions about React, Front-End Development, or anything related to technology? Feel free to reach out to me!
 
-- 📫 How to reach me **harishsemwal581@gmail.com**
+📫 You can connect with me via email at harishsemwal581@gmail.com. I'm always open to new opportunities, collaborations, or just a friendly chat!
 
-- 📄 Know about my experiences in my [Resume](https://geuac-my.sharepoint.com/:b:/g/personal/harishprasadsemwal_21011175_gehu_ac_in/EcTKZ_6xpTZMn0iBObKDIokBs634cJt_ukdR5Eim212MSQ?e=nZ54CN)
+📄 Curious to learn more about my experiences and achievements? Check out my [resume](https://geuac-my.sharepoint.com/:b:/g/personal/harishprasadsemwal_21011175_gehu_ac_in/EcTKZ_6xpTZMn0iBObKDIokBs634cJt_ukdR5Eim212MSQ?e=nZ54CN), where I've documented my journey, skills, and accomplishments in detail.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
