@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishsemwal&label=Profile%20views&color=0e75b6&style=flat" alt="harishsemwal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harishsemwal" alt="harishsemwal" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/harishsemwal012" target="blank"><img src="https://img.shields.io/twitter/follow/harishsemwal012?logo=twitter&style=for-the-badge" alt="harishsemwal012" /></a> </p>
-
-<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
 - 🔭 I’m currently working on [Full Stack Development](https://hpsemwal.netlify.app/)
 
@@ -17,11 +13,11 @@
 
 - 🤝 I’m Pursing [Bachelor of Technology](https://www.gehu.ac.in/)
 
-- 👨‍💻 All of my profiles are available at [https://heylink.me/harish_semwal/](https://heylink.me/harish_semwal/)
+- 👨‍💻 All of my profiles are available at [Portfolio](https://heylink.me/harish_semwal/)
 
-- 📝 I regularly Solve Problem on [https://leetcode.com/harishsemwal1/](https://leetcode.com/harishsemwal1/)
+- 📝 I regularly Solve Problem on [LeetCode](https://leetcode.com/harishsemwal1/)
 
-- 💬 Ask me about **React, Front-End Develoment**
+- 💬 Ask me about **ReactJS, NodeJS, ExpressJS, Front-End Develoment, Git, GitHub, Unix Commands, DevOps**
 
 - 📫 How to reach me **harishsemwal581@gmail.com**
 
@@ -53,20 +49,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harishsemwal&show_icons=true&locale=en" alt="harishsemwal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harishsemwal&" alt="harishsemwal" /></p>
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=HII+THERE+'+_+'+👋;I+am+Harish+Prasad+Semwal...;+PROGRAMMER;FULL+STACK+WEB+DEVELOPER;DevOps+Enthusiast!&center=true&size=20">
-  </a>
-</h1>
-
-- > ### `Some`times I make things.
-- > ### `Some`times they work.
-- > ### [`Some` more about me](https://heylink.me/harish_semwal/)
-
----
-
-[![Harish Prasad Semwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=harishsemwal&count_private=true&show_icons=true&theme=radical)](https://github.com/harishsemwal/harishsemwal/blob/main/README.md)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harishsemwal&count_private=true)](https://github.com/harishsemwal/)
-
-![](https://github.com/harishsemwal/harishsemwal/blob/output/github-contribution-grid-snake.svg)
