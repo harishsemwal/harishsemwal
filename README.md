@@ -1,8 +1,5 @@
-<h1 align="center">Hi 👋, I'm Harish Prasad Semwal</h1>
-<h3 align="center">A Passionate Computer Science & Engineering from India</h3>
-<br>
-
 ![HarishSmewal](https://github.com/user-attachments/assets/e9449c22-eccb-48f6-b5c9-cf76422845b9)
+<h1 align="center">Hi 👋, I'm Harish Prasad Semwal</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishsemwal&label=Profile%20views&color=0e75b6&style=flat" alt="harishsemwal" /> </p>
 
@@ -25,6 +22,9 @@
 - 📫 How to reach me **harishsemwal581@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1iJngVh3CT7lkZhefFJHib_Qe6iGbSiXP/view?usp=share_link](https://drive.google.com/file/d/1iJngVh3CT7lkZhefFJHib_Qe6iGbSiXP/view?usp=share_link)
+
+<h3 align="center">A Passionate Computer Science & Engineering from India</h3>
+<br>
 
 ![Connect](https://github.com/user-attachments/assets/371560ef-a230-41f6-9d9b-8c973745db41)
 
