@@ -1,4 +1,6 @@
 ![HarishSmewal](https://github.com/user-attachments/assets/e9449c22-eccb-48f6-b5c9-cf76422845b9)
+![Simple Work LinkedIn Banner](https://github.com/user-attachments/assets/bb17b37d-da51-4c25-a1fd-270138e8a085)
+
 <h1 align="center">Hi 👋, I'm Harish Prasad Semwal</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishsemwal&label=Profile%20views&color=0e75b6&style=flat" alt="harishsemwal" /> </p>
