@@ -1,5 +1,7 @@
 ![HarishSmewal](https://github.com/user-attachments/assets/e9449c22-eccb-48f6-b5c9-cf76422845b9)
 ![Simple Work LinkedIn Banner](https://github.com/user-attachments/assets/bb17b37d-da51-4c25-a1fd-270138e8a085)
+![{A9AA59E5-1272-4A83-9BE2-EE96E7305783}](https://github.com/user-attachments/assets/2eedf258-8826-4f8d-ac52-e2b9b99344af)
+
 
 <h1 align="center">Hi 👋, I'm Harish Prasad Semwal</h1>
 
